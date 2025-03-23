@@ -1,1 +1,1 @@
-# Golany_mastery
+# Golang_mastery
